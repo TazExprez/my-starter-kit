@@ -1,0 +1,7 @@
+header {
+  background: red; }
+
+body {
+  background: yellow; }
+  body h1 {
+    font-size: 4rem; }
